@@ -1,16 +1,13 @@
-### Hi there 👋
+### Bonjour 👋
 
-<!--
-**triozer/triozer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Cédric, 18yo, Full-Stack engineer @ [Scortex](https://github.com/scortexio)
 
-Here are some ideas to get you started:
+[![Cédric's github stats](https://github-readme-stats.vercel.app/api?username=triozer&count_private=true&show_icons=true
+)](https://github.com/triozer)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Contactez-moi 🌎
+
+[🚀: Site](https://c-dric.eu) <br>
+[🐦: Twitter](https://twitter.com/triozeroff) <br>
+[💼: LinkedIn](https://www.linkedin.com/in/c%C3%A9dric-boirard-111b09158/) <br>
+[📫: hello AT imcedric DOT space](mailto:hello@imcedric.space)
