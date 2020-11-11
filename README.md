@@ -1,6 +1,6 @@
 ### Bonjour 👋
 
-Cédric, 18yo, Full-Stack engineer @ [Scortex](https://github.com/scortexio)
+Cédric, 19yo, Full-Stack engineer @ [Scortex](https://github.com/scortexio)
 
 [![Cédric's github stats](https://github-readme-stats.vercel.app/api?username=triozer&count_private=true&show_icons=true
 )](https://github.com/triozer)
