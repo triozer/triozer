@@ -2,7 +2,7 @@
 
 Cédric, 19yo, Full-Stack engineer @ [Scortex](https://github.com/scortexio)
 
-[![Cédric's github stats](https://github-readme-stats.vercel.app/api?username=triozer&count_private=true&show_icons=true
+[![Cédric's github stats](https://github-readme-stats.vercel.app/api?username=triozer&count_private=true&show_icons=true&theme=chartreuse-dark
 )](https://github.com/triozer)
 
 ### Contactez-moi 🌎
