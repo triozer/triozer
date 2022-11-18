@@ -10,4 +10,4 @@ Cédric, 21yo, Full-Stack engineer @ [Scortex](https://github.com/scortexio)
 [🚀: Site](https://c-dric.eu) <br>
 [🐦: Twitter](https://twitter.com/triozeroff) <br>
 [💼: LinkedIn](https://www.linkedin.com/in/c%C3%A9dric-boirard-111b09158/) <br>
-[📫: hello AT imcedric DOT space](mailto:hello@imcedric.space)
+[📫: boirardcedric AT gmail DOT com](mailto:boirardcedric+github@gmail.com)
