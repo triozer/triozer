@@ -5,6 +5,10 @@ Cédric, 21yo, Full-Stack engineer
 [![Cédric's github stats](https://github-readme-stats.vercel.app/api?username=triozer&count_private=true&show_icons=true&theme=chartreuse-dark
 )](https://github.com/triozer)
 
+#### Find me
+
+[My Codepen profile](https://codepen.io/triozer) <br>
+
 ### Contactez-moi 🌎
 
 [🚀: Site](https://c-dric.eu) <br>
