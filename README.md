@@ -1,6 +1,6 @@
 ### Bonjour 👋
 
-Cédric, 21yo, Full-Stack engineer
+Cédric, 22yo, Full-Stack engineer
 
 [![Cédric's github stats](https://github-readme-stats.vercel.app/api?username=triozer&count_private=true&show_icons=true&theme=chartreuse-dark
 )](https://github.com/triozer)
